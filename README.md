@@ -12,3 +12,4 @@ Weslei Santos
 * HTML
 * GIT
 * MarkDown
+* Media Queries
