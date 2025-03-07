@@ -10,11 +10,12 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #CF2425;
+    background-image: linear-gradient(#cf2425, #892c2cca 50%, #892c2cca 50%, #cf2425);
 }
 
 header, footer {
     height: 100px;
-    background-color: #CF2425;
     color: #FFFFFF;
     display: flex;
     align-items: center;
@@ -27,7 +28,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
 }
 
 header {
@@ -41,6 +41,10 @@ header {
 
 header span {
     font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 96%;
 
 }
 
@@ -68,7 +72,7 @@ main {
     color: #ffffff;
     font-size: 2.5rem;
     width: 240px;
-    transform: translateX(-100%);
+    transform: translateX(-120%);
     text-align: end;
 }
 
@@ -76,6 +80,7 @@ main {
     height: 85vh;
 
 }
+
 footer {
     height: 100px;
     display: flex;
@@ -86,6 +91,7 @@ footer {
     color: #FFFFFF;
     font-weight: 100;
 }
+
 
 footer div {
     width: 64px;
