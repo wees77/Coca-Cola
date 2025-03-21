@@ -1,5 +1,6 @@
 # Coca-Cola
 ![](preview4.png)
+![](preview.4png)
 
 ## Projeto
 Tela Coca Cola
