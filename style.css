@@ -23,6 +23,11 @@ header, footer {
     padding: 0 20px;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 main {
     flex-grow: 1;
     display: flex;
@@ -37,16 +42,9 @@ header {
     gap: 24px;
     color: #FFFFFF;
     padding-left: 75px;
+    justify-content: start;
 }
 
-header span {
-    font-weight: 600;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-right: 96%;
-
-}
 
 main {
     flex-grow: 1;
