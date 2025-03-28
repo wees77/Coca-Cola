@@ -5,8 +5,6 @@
 ## Projeto
 Tela Coca Cola
 
-## Autor
-Weslei Santos
 
 ## Tenologias
 * CSS
@@ -14,3 +12,6 @@ Weslei Santos
 * GIT
 * MarkDown
 * Media Queries
+
+&copy; 2025 | Weslei Santos
+
