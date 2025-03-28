@@ -61,7 +61,7 @@ div>span {
 }
 
 .content-text{
-    color: #000000;
+    color: #aa0b00;
     font-size: 2.5rem;
     width: 200px;
     transform: translate(20%);
@@ -71,8 +71,4 @@ div>span {
     height: 62vh;
     text-align: center;
     transform: translate(25%);
-}
-
-mapa {
-    
 }
