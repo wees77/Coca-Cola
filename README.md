@@ -6,7 +6,7 @@
 Tela Coca Cola
 
 
-## Tenologias
+## Tecnologias
 * CSS
 * HTML
 * GIT
